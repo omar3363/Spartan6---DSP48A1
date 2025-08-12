@@ -86,10 +86,5 @@ See `/docs` for:
 
 ---
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 **Author:** Omar Ahmed Fouad  
-**GitHub:** [Add your GitHub profile link here]
+**GitHub:** https://github.com/omar3363
