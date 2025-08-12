@@ -69,7 +69,6 @@ Expected outputs are compared automatically in the testbench, and all cases pass
 See `/docs` for:
 - QuestaSim waveform captures
 - Vivado elaboration, synthesis, and implementation schematics
-- Timing and utilization reports
 - Linting validation results
 
 ---
